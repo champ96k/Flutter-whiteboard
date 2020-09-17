@@ -5,7 +5,7 @@
 
 #### Screenshot
   
-  ![]("Whiteboard.png")
+  ![](Whiteboard.png)
   
   
   ![](SS2.png)
