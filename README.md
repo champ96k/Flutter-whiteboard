@@ -13,9 +13,9 @@
   - [x] IOs
   - [x] Web
   - [x] PWA
-  - [] Windows
-  - [] Linux
-  - [] Macbook
+  - [ ] Windows
+  - [ ] Linux
+  - [ ] Macbook
 
 
 For help getting started with Flutter, view our
