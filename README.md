@@ -4,11 +4,14 @@
 ### Live Demo [Click here](https://champ96k.github.io/Flutter-Whiteboard/#/)
 
 #### Screenshot
+
+  **1 Android**
   
-  ![](Whiteboard.png)
+![](https://i.ibb.co/phC74zn/Whiteboard.png)
+
+  **2 Website**
   
-  
-  ![](SS2.png)
+![](SS2.png)
   
   
 ### Device Support
