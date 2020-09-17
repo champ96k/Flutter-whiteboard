@@ -97,19 +97,13 @@ class _HomeState extends State<Home> {
           style: TextStyle(color: Colors.white),
         ),
       ),
-      body: Card(
-        elevation: 6.0,
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(6.0)),
-        color: Colors.black,
-        child: Container(
-          margin: EdgeInsets.all(4.0),
+      body: Container( 
           height: size.height,
           width: size.width,
           color: Colors.white,
           child: Whiteboard(
             controller: controller,
           ),
-        ),
       ),
     );
   }
