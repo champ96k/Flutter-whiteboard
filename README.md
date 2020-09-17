@@ -9,13 +9,13 @@
   
   
 ###
-  [x] Android
-  [x] IOs
-  [x] Web
-  [x] PWA
-  [] Windows
-  [] Linux
-  [] Macbook
+  - [x] Android
+  - [x] IOs
+  - [x] Web
+  - [x] PWA
+  - [] Windows
+  - [] Linux
+  - [] Macbook
 
 
 For help getting started with Flutter, view our
