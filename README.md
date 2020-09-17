@@ -1,7 +1,7 @@
 # Flutter Whiteboard
 
 
-### Live Demo [Click here](https://champ96k.github.io/Flutter-Whiteboard/#/)
+### Live Demo [Click here](https://champ96k.github.io/Flutter-whiteboard/#/)
 
 #### Screenshot
 
@@ -11,7 +11,7 @@
 
   **2 Website**
   
-![](SS2.png)
+![](https://i.ibb.co/5xxc3Gx/SS2.png)
   
   
 ### Device Support
