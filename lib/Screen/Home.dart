@@ -101,7 +101,7 @@ class _HomeState extends State<Home> {
           height: size.height,
           width: size.width,
           color: Colors.white,
-          child: Whiteboard(
+          child: Whiteboard(  
             controller: controller,
           ),
       ),
