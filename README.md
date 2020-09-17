@@ -11,7 +11,7 @@
 
   **2 Website**
   
-![](SS2.png)
+![](https://i.ibb.co/5xxc3Gx/SS2.png)
   
   
 ### Device Support
