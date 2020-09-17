@@ -1,7 +1,7 @@
 # Flutter Whiteboard
 
 
-### Live Demo [Click here](https://champ96k.github.io/Flutter-Whiteboard/#/)
+### Live Demo [Click here](https://champ96k.github.io/Flutter-whiteboard/#/)
 
 #### Screenshot
 
